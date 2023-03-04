@@ -14,18 +14,19 @@ p {
 
 .qr-card {
   background-color: hsl(0, 0%, 100%);
-  border-radius: 20px;
+  box-shadow: 1px 1px 10px hsl(220deg 35% 75%);
+  border-radius: 10px;
   height: 470px;
   margin-top: -10px;
   min-width: 200px;
   padding: 15px;
-  width: 300px;
+  width: 290px;
 }
 
 .qr-card img {
   border-radius: 20px;
   height: 290px;
-  width: 100%;
+  width: 290px;
 }
 
 .qr-card .main {
