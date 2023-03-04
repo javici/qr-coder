@@ -9,14 +9,14 @@ body {
 h1,
 p {
   font-family: 'Outfit', sans-serif;
-  margin: 20px;
+  margin: 19px 20px 19px 20px;
 }
 
 .qr-card {
   background-color: hsl(0, 0%, 100%);
   box-shadow: 1px 1px 10px hsl(220deg 35% 75%);
-  border-radius: 10px;
-  height: 470px;
+  border-radius: 20px;
+  height: 465px;
   margin-top: -10px;
   min-width: 200px;
   padding: 15px;
@@ -24,7 +24,7 @@ p {
 }
 
 .qr-card img {
-  border-radius: 20px;
+  border-radius: 10px;
   height: 290px;
   width: 290px;
 }
