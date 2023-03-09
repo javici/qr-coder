@@ -13,11 +13,11 @@ p {
 }
 
 .qr-card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: #F2F2F2);
   border-radius: 20px;
   box-shadow: 1px 1px 10px hsl(220deg 35% 75%);
   height: 497px;
-  margin-top: -10px;
+  margin-top: -15px;
   text-align: center;
   width: 320px;
 }
