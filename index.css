@@ -14,31 +14,39 @@ p {
 
 .qr-card {
   background-color: hsl(0, 0%, 100%);
-  box-shadow: 1px 1px 10px hsl(220deg 35% 75%);
   border-radius: 20px;
-  height: 465px;
-  margin-top: -10px;
-  min-width: 200px;
-  padding: 15px;
-  width: 290px;
+  box-shadow: 1px 1px 10px hsl(220deg 35% 75%);
+  height: 497px;
+  text-align: center;
+  width: 320px;
 }
 
 .qr-card img {
   border-radius: 10px;
-  height: 290px;
-  width: 290px;
+  height: 288px;
+  margin-top: 16px;
+  width: 288px;
 }
 
 .qr-card .main {
-  color: hsl(218, 44%, 22%);
+  color: #1f314f;
+  font-family: 'Outfit';
   font-size: 22px;
+  font-style: normal;
   font-weight: 700;
+  height: 56px;
+  line-height: 28px;
   text-align: center;
 }
 
 .qr-card .info {
-  color: hsl(220, 15%, 55%);
-  font-size: 16px;
+  color: #7d889e;
+  font-family: 'Outfit';
+  font-size: 15px;
+  font-style: normal;
   font-weight: 400;
+  letter-spacing: 0.1875px;
+  line-height: 19px;
+  margin: 0 32px 32px;
   text-align: center;
 }
