@@ -17,6 +17,7 @@ p {
   border-radius: 20px;
   box-shadow: 1px 1px 10px hsl(220deg 35% 75%);
   height: 497px;
+  margin-top: -10px;
   text-align: center;
   width: 320px;
 }
